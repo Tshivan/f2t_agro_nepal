@@ -1,0 +1,4 @@
+- a CONTRIBUTING.md file with workflow rules:
+- Branch naming conventions
+- Commit message guidelines
+- Code review process
